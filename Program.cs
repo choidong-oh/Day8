@@ -16,6 +16,8 @@ namespace Day8
             Console.WriteLine("dd");
             Console.WriteLine("dd");
             Console.WriteLine("dd");
+            Console.WriteLine("기능 개발중");
+            Console.WriteLine("섞고 돌리고 섞고");
             //있는코드 볼수있음 : f12/// random볼때등
             //천천히 반복 , 초단위
             //for (int i = 0; i < 10; i++)
