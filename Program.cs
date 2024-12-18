@@ -12,6 +12,7 @@ namespace Day8
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("버그픽스");
             //있는코드 볼수있음 : f12/// random볼때등
             //천천히 반복 , 초단위
             //for (int i = 0; i < 10; i++)
